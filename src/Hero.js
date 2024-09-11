@@ -12,7 +12,7 @@ const Hero = ({ domain, setDomain, zone, setZone, checkDomain }) => {
                     <img className="h-[18px]" src="https://mediaway.kz/themes/the_cms/assets/img/logo.svg" alt="" />
                     
                     {/* <a className='text-white' href=''>Часто задаваемые вопросы</a> */}
-                    <a className='text-white' href=''>Консультация</a>
+                    <span className='text-white' href=''>Консультация</span>
                     </div>
                 </div>
             </div>
